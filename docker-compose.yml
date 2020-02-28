@@ -24,7 +24,7 @@ services:
   # fake-backend
   battle-samiamr:
     hostname: "battle-samiamr"
-    image: "samiamr/fake-backend:CI"
+    image: "samiamr/fake-backend:ContinuousIntegration"
     container_name: "battle-samiamr"
     volumes:
     #  - type: bind
