@@ -1,13 +1,11 @@
-[![Build Status](http://ec2-54-227-106-160.compute-1.amazonaws.com/buildStatus/icon?job=Battleboats-ContinuousIntegration-master)](http://ec2-54-227-106-160.compute-1.amazonaws.com/job/Battleboats-ContinuousIntegration-master/)
+#Project descriptioni
 
+[![Build Status](http://ec2-54-227-106-160.compute-1.amazonaws.com/buildStatus/icon?job=Battleboats-ContinuousIntegration-master)](http://ec2-54-227-106-160.compute-1.amazonaws.com/job/Battleboats-ContinuousIntegration-master/)
 
 ##Project description
 
-Project Battleboat deployed with Continous Integration project with branch control
-
-The goal of this app is to serve a static website and connect to a MySQL database as a simple backend app would do.
-
-
+- Project Battleboat deployed with Continous Integration project with branch control
+- The goal of this app is to serve a static website and connect to a MySQL database as a simple backend app would do.
 
 ##Test if application is working
 
